@@ -1,0 +1,15 @@
+E:\dotNet\DES_LAB5\DES_LAB5\bin\Debug\net6.0\DES_LAB5.exe
+E:\dotNet\DES_LAB5\DES_LAB5\bin\Debug\net6.0\DES_LAB5.deps.json
+E:\dotNet\DES_LAB5\DES_LAB5\bin\Debug\net6.0\DES_LAB5.runtimeconfig.json
+E:\dotNet\DES_LAB5\DES_LAB5\bin\Debug\net6.0\DES_LAB5.dll
+E:\dotNet\DES_LAB5\DES_LAB5\bin\Debug\net6.0\DES_LAB5.pdb
+E:\dotNet\DES_LAB5\DES_LAB5\obj\Debug\net6.0\DES_LAB5.csproj.AssemblyReference.cache
+E:\dotNet\DES_LAB5\DES_LAB5\obj\Debug\net6.0\DES_LAB5.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet\DES_LAB5\DES_LAB5\obj\Debug\net6.0\DES_LAB5.AssemblyInfoInputs.cache
+E:\dotNet\DES_LAB5\DES_LAB5\obj\Debug\net6.0\DES_LAB5.AssemblyInfo.cs
+E:\dotNet\DES_LAB5\DES_LAB5\obj\Debug\net6.0\DES_LAB5.csproj.CoreCompileInputs.cache
+E:\dotNet\DES_LAB5\DES_LAB5\obj\Debug\net6.0\DES_LAB5.dll
+E:\dotNet\DES_LAB5\DES_LAB5\obj\Debug\net6.0\refint\DES_LAB5.dll
+E:\dotNet\DES_LAB5\DES_LAB5\obj\Debug\net6.0\DES_LAB5.pdb
+E:\dotNet\DES_LAB5\DES_LAB5\obj\Debug\net6.0\DES_LAB5.genruntimeconfig.cache
+E:\dotNet\DES_LAB5\DES_LAB5\obj\Debug\net6.0\ref\DES_LAB5.dll
